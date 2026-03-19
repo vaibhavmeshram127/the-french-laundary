@@ -14,3 +14,5 @@ It demonstrates how HTML, CSS, and JavaScript can be combined to build a clean, 
 - HTML5 → Structure of the page.
 - CSS3 → Styling, layout, and responsive design.
 - JavaScript (ES6) → Event handling, form validation, and dynamic updates.
+
+USE THIS LINK TO SEE THE OUTPUT :-<H2> http://127.0.0.1:5500/index.html </H2>
